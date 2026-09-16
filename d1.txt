@@ -1,2 +1,6 @@
 this is version 1
 feature 1
+
+This is a version 2
+feature 2
+feature 3
